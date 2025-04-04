@@ -5,7 +5,7 @@ export const workData = [
     id: 1,
     title: "A website clone of my former work place",
     desc: "My first ever React project.",
-    imgUrl: "/public/images/Ice-hub-home-page.png", 
+    imgUrl: "/images/Ice-hub-home-page.png", 
     gitURL: "https://github.com/your-username/ecommerce-website", // Replace with your actual GitHub URL
     liveDemo: "https://example.com/ecommerce-website", // Replace with your actual live demo URL
   },
