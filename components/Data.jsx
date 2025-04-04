@@ -3,9 +3,9 @@ export const workData = [
   
   {
     id: 1,
-    title: "Project 1: E-commerce Website",
-    desc: "A full-stack e-commerce website with user authentication, product browsing, shopping cart, and checkout functionality.",
-    imgUrl: "/images/hero-image.jpg", // Replace with your actual image path
+    title: "A website clone of my former work place",
+    desc: "My first ever React project.",
+    imgUrl: "/public/images/Ice-hub-home-page.png", 
     gitURL: "https://github.com/your-username/ecommerce-website", // Replace with your actual GitHub URL
     liveDemo: "https://example.com/ecommerce-website", // Replace with your actual live demo URL
   },
