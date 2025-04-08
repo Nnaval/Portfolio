@@ -1,21 +1,19 @@
-
 export const workData = [
-  
   {
     id: 1,
     title: "A website clone of my former work place",
     desc: "My first ever React project.",
-    imgUrl: "/images/Ice-hub-home-page.png", 
-    gitURL: "https://github.com/your-username/ecommerce-website", // Replace with your actual GitHub URL
+    imgUrl: "/images/Ice-hub-home-page.png",
+    gitURL: "https://github.com/Nnaval/icehub", // Replace with your actual GitHub URL
     liveDemo: "https://example.com/ecommerce-website", // Replace with your actual live demo URL
   },
   {
     id: 2,
-    title: "Project 2: Social Media App",
-    desc: "A social media application with user profiles, posts, comments, and real-time updates.",
+    title: "Project 2: A 3D mapping system for Futo Students in Nigeria",
+    desc: "A 3D Mapping where students can navigate and explore the school environments in a 3D form, they can also pitch their businesses too.",
     imgUrl: "/images/hero-image.jpg", // Replace with your actual image path
-    gitURL: "https://github.com/your-username/social-media-app", // Replace with your actual GitHub URL
-    liveDemo: "https://example.com/social-media-app", // Replace with your actual live demo URL
+    gitURL: "https://github.com/Nnaval/map-world", // Replace with your actual GitHub URL
+    liveDemo: "https://futo-verse.vercel.app/", // Replace with your actual live demo URL
   },
   {
     id: 3,
@@ -51,8 +49,6 @@ export const workData = [
   },
 ];
 
-
-
 export const heroAboutTags = [
   {
     id: 1,
@@ -83,6 +79,3 @@ export const heroAboutTags = [
     text: "PostgreSQL",
   },
 ];
-
-
-
